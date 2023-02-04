@@ -1,0 +1,5 @@
+name: LifeInventoryLib
+author: HWABAEG
+main: LifeInventoryLib\LifeInventoryLib
+version: B1
+api: [4.0.0]
